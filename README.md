@@ -1,7 +1,7 @@
 # nekos.life.py
 A Pyhton based discord bot for the https://github.com/Nekos-life Api.
 
-##Requirements
+# Requirements
 - discord@1.7.3
 - aiohttp@3.7.4.post0
 
